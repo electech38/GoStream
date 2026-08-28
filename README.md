@@ -25,7 +25,16 @@ Turn any subtitle into natural spoken Vietnamese with real-time AI voice-over �
 
 🔗 M3U & Xtream Codes Source Manager
 Add and manage your own playlists with a built-in M3U and Xtream Codes manager — full control over your sources in one clean interface.
+📲 Add Sources by QR — No Typing on the TV — Skip the painful remote-typing. Just scan a QR code from your phone or tablet to instantly add M3U playlists or Xtream Codes logins to your TV. Long URLs and credentials transfer in one tap.
+🎤 Smart Ad-Free Karaoke System
+Turn any screen into a full karaoke party — completely ad-free, powered by GoStream's smart engine.
 
+📱 Control from Your Phone or Tablet — Browse songs and build the playlist right from your own device. No passing a physical remote around.
+🎚️ Full-Featured Remote — Adjust audio and vocal settings on the fly, including male/female key (tone) control to match any singer's voice.
+🔍 Search by Male/Female Key — Instantly find karaoke tracks in the male or female vocal key that fits you best.
+📝 Freely Manage the Queue — Reorder song priority, add new tracks, or remove them anytime — total control over what plays next.
+♾️ Unlimited Devices — Connect as many phones and tablets as you want. No device limits, ever.
+🔗 QR-Code Group Remotes — Everyone scans one QR code to join as a remote. Whether it's 10 people or 100, each guest can search for songs and add them to the shared playlist themselves — a self-managed party where the whole room is the DJ.
 
 <img width="1536" height="1024" alt="ChatGPT Image Apr 12, 2026, 10_17_37 PM" src="https://github.com/user-attachments/assets/2433c405-88fb-4b95-a5a3-849e0527ccec" />
 <img width="1536" height="1024" alt="ChatGPT Image Apr 12, 2026, 10_28_03 PM" src="https://github.com/user-attachments/assets/aee6d83b-c7af-4413-ad99-ca2b46612e9c" />
