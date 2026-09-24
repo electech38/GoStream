@@ -69,6 +69,11 @@ Turn any screen into a full karaoke party — completely ad-free, powered by GoS
 <img width="1920" height="1080" alt="Screenshot_20260628_133225" src="https://github.com/user-attachments/assets/5a21732b-6723-43ce-923a-adfe9d00a228" />
 <img width="1920" height="1080" alt="Screenshot_20260628_133208" src="https://github.com/user-attachments/assets/ad50bc79-2b7a-45b4-bca5-8da7b66cce77" />
 <img width="1920" height="1080" alt="Screenshot_20260628_133134" src="https://github.com/user-attachments/assets/2e5e7901-e075-4c0a-9705-7f29b43da84b" />
+<img width="1080" height="2404" alt="Screenshot_20260924-162244" src="https://github.com/user-attachments/assets/107c707f-780a-4644-ba1b-a3ca9f675811" />
+<img width="1080" height="2404" alt="Screenshot_20260924-162238" src="https://github.com/user-attachments/assets/4f6d1537-ea04-4548-835d-de3128a0b015" />
+<img width="1080" height="2404" alt="Screenshot_20260924-162227" src="https://github.com/user-attachments/assets/78ae31db-dd3e-4715-87fc-d957c56d66d6" />
+<img width="1080" height="2404" alt="Screenshot_20260924-162215" src="https://github.com/user-attachments/assets/725c2499-1cb4-475c-aa29-f2bd2994dcba" />
+<img width="1080" height="2404" alt="Screenshot_20260924-162159" src="https://github.com/user-attachments/assets/06eac061-402b-4a4f-8c48-48ca5f4402ef" />
 <img width="1920" height="1080" alt="Screenshot_20260628_133057" src="https://github.com/user-attachments/assets/85372306-439b-4b2c-8846-1834d848e6b7" />
 <img width="1920" height="1080" alt="Screenshot_20260628_133039" src="https://github.com/user-attachments/assets/7807238b-8851-492c-a316-bbdd34774ed6" />
 <img width="1920" height="1080" alt="Screenshot_20260628_133024" src="https://github.com/user-attachments/assets/685631d0-27a4-4a24-8859-b3e8da27f1d0" />
